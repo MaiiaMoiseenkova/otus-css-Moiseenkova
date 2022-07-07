@@ -1,2 +1,2 @@
-# otus-css-Moiseenkova
+# otus-css-moiseenkova
 Home work
